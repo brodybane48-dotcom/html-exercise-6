@@ -1,0 +1,50 @@
+body{
+margin-left: 0px;  
+background-color: black;
+}
+
+.header{
+background-color: magenta;   
+border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+padding: 10px;
+padding-left: 20px;
+margin-right: 1100px;  
+}
+
+.navigation{
+background-color: turquoise;   
+border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+padding: 10px;
+padding-left: 0px;
+margin-right: 800px;
+}
+
+.section{
+background-color: yellow;   
+border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+padding: 10px;
+padding-left: 20px;
+margin-right: 500px;
+}
+
+.footer{
+background-color: white; 
+border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+padding: 10px;
+padding-left: 20px;
+margin-right: 200px;   
+}
+
+.about-list{
+background-color: grey;
+list-style-type: none;    
+padding: 10px;
+padding-left: 20px;
+margin-left: -20px;
+border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+}
